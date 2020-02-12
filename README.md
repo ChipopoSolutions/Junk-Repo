@@ -6,6 +6,6 @@ On the maintainer’s system:
 `./configure`             Generate Makefile from Makefile.in  
 `make distcheck`          Use Makefile to build and test a tarball to distribute  
 
-
+test
 
     
